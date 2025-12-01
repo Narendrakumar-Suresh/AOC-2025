@@ -1,4 +1,4 @@
-f=open("inp1.txt",'r')
+f=open("input.txt",'r')
 # Read all lines and strip the newline character from each rotation string
 rotations = [line.strip() for line in f.readlines()] 
 

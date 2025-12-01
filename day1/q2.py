@@ -1,4 +1,4 @@
-f = open("inp1.txt",'r')
+f = open("input.txt",'r')
 rotations = [line.strip() for line in f.readlines()] 
 
 point = 50
